@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "First Post",
+        "content": "This is the first post content.",
+        "timestamp": "2025-02-11 10:00 AM"
+    },
+    {
+        "id": 2,
+        "title": "Second Post",
+        "content": "This is the second post content.",
+        "timestamp": "2025-02-11 11:00 AM"
+    }
+]
